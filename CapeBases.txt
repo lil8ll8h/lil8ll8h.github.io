@@ -1,8 +1,9 @@
-depressedkid:dev
-nxwt:dev
-amiscm:dev
-goatis:dev
-Freak_x_X:tester
+depressedkid:spottydev
+nxwt:spottydev
+amiscm:spottydev
+goatis:spottydev
+qqcripto:spottydev
+Freak_x_X:spottytester
 
 
 // Og devs
